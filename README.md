@@ -56,12 +56,6 @@ print(f"Received {data!r}")
 ~~~
 
 ## OUTPUT:
-
-![server](img/ss1.png)
-
-![client](img/ss2.png)
-
-![output](img/ss3.png)
-
+![alt text](<ss/Screenshot 2025-09-19 142002.png>)
 ## RESULT:
 The program is executed successfully
